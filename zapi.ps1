@@ -2,9 +2,9 @@ using module "C:\Users\Florian\Downloads\netapp-manageability-sdk-9.4\lib\DotNet
 using namespace NetApp.Manage
 
 # Input
-$Hostname = 'jamaica.muccbc.hq.netapp.com'
-$Username = 'admin'
-$Password = 'netapp01'
+$Hostname = 'filer'
+$Username = 'user'
+$Password = 'password'
 $Port = 443
 
 $ZapiMajorVersion = 1   # default
